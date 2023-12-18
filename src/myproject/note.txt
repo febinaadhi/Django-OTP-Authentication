@@ -1,0 +1,2 @@
+{"username": "www1", "password": "123", "email":"febinaadhi1@gmail.com" }
+{"username": "ab", "password": "123", "otp":"123" }
